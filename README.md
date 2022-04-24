@@ -1,6 +1,6 @@
 # Responsive Parking Slots Website
 ### Live Preview : 
-https://oeladawy.github.io/ParkingSlots/
+https://omniaeladawy.github.io/ParkingSlots/index.html
 
 Parking slots website is a website for my graduation project which is The project is a smart parking booking system that provides customers an easy way of reserving a parking space online.
 It overcomes the problem of finding a parking space in commercial areas that unnecessary consumes time.
